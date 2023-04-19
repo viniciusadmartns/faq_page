@@ -1,2 +1,2 @@
 # faq_page
-Uma pagina de inscrição
+Uma pagina de faq
